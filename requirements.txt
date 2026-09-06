@@ -1,0 +1,6 @@
+Python
+pandas
+matplotlib
+seaborn
+mysql
+Powerbi
